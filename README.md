@@ -12,3 +12,6 @@ Wikipedia Links: Learn more about each country’s geography and climate.
 This project uses the Average Monthly Surface Temperature (1940-2024) dataset, provided by Samith Sachidanandan on Kaggle. 
 Full credit goes to the dataset creator for compiling this valuable resource.
 
+![Alt text]("https://github.com/JoaoPLNunes/World-Temperature/blob/main/Top%203%20Countries.PNG")
+![Alt text]("https://github.com/JoaoPLNunes/World-Temperature/blob/main/Temperature%20Diference.png")
+![Alt text]("https://github.com/JoaoPLNunes/World-Temperature/blob/main/Country%20Temperature.png")
